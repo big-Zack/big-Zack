@@ -4,10 +4,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=big-Zack&repo=coding" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=big-Zack&repo=coding" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-Zack" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-Zack)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
